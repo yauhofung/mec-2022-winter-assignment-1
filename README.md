@@ -10,6 +10,11 @@ I am a detective in 1995, currently on the trail of a murder mystery. There is a
 The front page reads the title "3 people killed! Downtown Serial Killer?". I flip to the page of the story and learn that the killing have happened on consecutive days, all between the hours of 10pm to 2am. The three killings have all been within a 20 block radius of each other. It's 9:30pm  now.
 
 **[2a]** Drive downtown to look for the killer.
+## [2a] 
+I hop in my car to go pick up my colleague to head downtown. My colleague seemed very troubled about this
+case because he knew one of the victims and was determined to find the killer. This made me sad and angry so
+I vowed to him that we would find this killer. We finally reached downtown and seen the sobbing families of
+the victims. 
 **[2b]** Interview families of the victims from police report on desk.
 
 ---
