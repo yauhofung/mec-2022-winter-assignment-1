@@ -19,7 +19,8 @@ I immediately reached out to my colleague who informed me that there was lead in
 **[end]**
 
 ---
-##[2b]
+## [2b]
 As we go from house to house interviewing the familes of the victims , I begin to notice a pattern. All the victims attended the new club Downtown called Eternities. could the murder be a worker? a person who stalks the victims and follows them until the right moment to attack??
 
-**[3b]** follow clues from the interviews and head to Eternities
+**[3a]** tell the homicide department what I discovered from my interviews. 
+**[3b]** follow clues from the interviews and head to Eternities.
