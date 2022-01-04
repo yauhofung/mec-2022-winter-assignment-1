@@ -3,7 +3,7 @@
 ## [start]
 I am a detective in 1995, currently on the trail of a murder mystery. There is a serial killer on the loose in this town, and I will do whatever it takes to hunt him down.
 
-**[1a]** Read todaygit sta's newspaper.
+**[1a]** Read today's newspaper.
 **[1b]** Phone my sidekick.
 ---
 ## [1a]
