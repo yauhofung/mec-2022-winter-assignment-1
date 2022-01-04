@@ -11,3 +11,9 @@ The front page reads the title "3 people killed! Downtown Serial Killer?". I fli
 
 **[2a]** Drive downtown to look for the killer.
 **[2b]** Interview families of the victims from police report on desk.
+
+---
+## [1b]
+I immediately reached out to my colleague who informed me that there was lead in the case and the case was handed over to the homicide investigation department. I shared all I knew about the case with the homocide department in aid to locate this killer as quickly as we can. 
+
+**[end]**
